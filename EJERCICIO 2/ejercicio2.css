@@ -1,0 +1,23 @@
+/* Selecciona el div con el id #main-content */
+#main-content {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Selecciona el encabezado h1 con la clase .titulo */
+h1.titulo {
+    font-size: 2em;
+    color: #8e44ad;
+}
+
+/* Selecciona los enlaces que tienen el atributo target="_blank" */
+[target="_blank"]{
+    color: #3498db;
+    text-decoration: none;
+}
+
+/* Selecciona los enlaces que contienen "mailto" en el atributo href */
+a[href*="mailto"]{
+    color: #e74c3c;
+    text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+/* Selecciona el encabezado h1 */
+h1 {
+    font-size: 2.5em;
+    color: #3498db;
+    text-align: center;
+}
+
+/* Selecciona el párrafo p */
+p {
+    font-size: 1.2em;
+    color: #2c3e50;
+}
+
+/* Selecciona el párrafo con la clase .intro */
+p.intro {
+    font-size: 1.3em;
+    color: #e74c3c;
+    font-style: italic;
+}

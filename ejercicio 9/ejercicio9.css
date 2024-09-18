@@ -1,0 +1,25 @@
+div {
+    margin: 20px;
+    padding: 15px;
+    background-color: lightgray;
+width: 300px;
+
+
+
+}
+
+.precio {
+    text-align: right;
+    color: red;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 14px;
+}
+
+
+img {
+    width: 100%;
+}
